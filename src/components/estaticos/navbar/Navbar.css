@@ -1,0 +1,14 @@
+
+.Logo{
+    display: flex;
+}
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+.navbar{
+    background-color: #1F1F25;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
