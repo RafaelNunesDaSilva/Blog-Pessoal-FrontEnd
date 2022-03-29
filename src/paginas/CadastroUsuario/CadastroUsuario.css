@@ -1,0 +1,17 @@
+.imagem2{
+    background-image: url(https://media0.giphy.com/media/MHboUUIoxzOKs/giphy.gif?cid=ecf05e479yooo1mourrfebhinmdjgvrocilkynw573j83a0q&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.texto2{
+    font-weight: bold !important;
+
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
