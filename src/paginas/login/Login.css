@@ -1,8 +1,9 @@
 .textos1{
     font-weight: bold !important; 
+    /*text-decoration: none;*/
 }
 .imagem{
-    background-image: url(https://media0.giphy.com/media/MHboUUIoxzOKs/giphy.gif?cid=ecf05e479yooo1mourrfebhinmdjgvrocilkynw573j83a0q&rid=giphy.gif&ct=g);
+    background-image: url(https://media3.giphy.com/media/xPd1cSdZDWasAwJHFW/giphy.gif);
     background-repeat: no-repeat;
     width: 500vh;
     min-height: 100vh;
@@ -24,3 +25,6 @@
 .caixa2{
     background: linear-gradient( #D698B9,#FFBEA3,#CC6B8E,#0A2830 60% ) !important;
 }*/
+.caixa2{
+    background: linear-gradient( #DED3B2 50%, #4e4a3f) !important;
+}

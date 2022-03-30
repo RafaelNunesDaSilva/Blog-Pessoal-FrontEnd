@@ -1,5 +1,5 @@
 .imagem2{
-    background-image: url(https://media0.giphy.com/media/MHboUUIoxzOKs/giphy.gif?cid=ecf05e479yooo1mourrfebhinmdjgvrocilkynw573j83a0q&rid=giphy.gif&ct=g);
+    background-image: url(https://media3.giphy.com/media/0WsYJial8ZOwUCCSko/giphy.gif?cid=790b7611a937dbf024f866868369ce9eb07c8cfd4a87e512&rid=giphy.gif&ct=g);
     background-repeat: no-repeat;
     width: 100vh;
     min-height: 100vh;
@@ -14,4 +14,20 @@
 
 .btnCancelar{
     margin-right: 20px !important;
+    border-color: #EFC13B !important;
+    background-color: #26262F !important;
+    color: #EFC13B !important;
 }
+
+.caixa3{
+background-color: #F9F4D9;
+}
+
+/* background-image: url(https://images.squarespace-cdn.com/content/v1/5e22200ff9d6fb27e4782cf6/1582724125390-EYE6UCMO85DA1RJPBFAI/Brooklyn.gif?format=1000w);   
+ background-repeat: no-repeat;
+
+ background-size: cover;
+ background-position: center;
+}*/
+
+
