@@ -6,9 +6,9 @@
     font-weight: bold !important;
 }
 .botao{
-    border-color: #EFC13B !important;
-     background-color: #26262F;
-      color: #EFC13B !important;
+    border-color: #EFC13B !important; /*cor da borda*/
+     background-color: #26262F; /* cor interna do botão*/
+      color: #EFC13B !important; /* Cor da letra*/
 }
 .postagens{
     background-color: #26262F;

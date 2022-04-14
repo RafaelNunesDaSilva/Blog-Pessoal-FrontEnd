@@ -37,11 +37,13 @@ function Navbar() {
     if (token != "") {
         navbarComponent = <AppBar position="static">
             <Toolbar className="navbar" variant="dense">
+            <Link to="/home" className='text-decorator-none'>
                 <Box className='cursor' >
                     <Typography variant="h5" color="inherit">
                         <img className="Logo" src="https://i.imgur.com/ZQeixzj.png" alt="LogoTipo" width="140px" height="35px" />
                     </Typography>
                 </Box>
+                </Link>
 
                 <Box display="flex" justifyContent="start">
                     <Link to="/home" className='text-decorator-none'>
